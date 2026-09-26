@@ -34,7 +34,7 @@ With a diverse product portfolio and customers across multiple markets, GameZone
 
 
 <h3 align="left">Dataset Details &amp; Structure</h3>
-The dataset comprises 17,088 customer transactions from 2018 to 2021, structured across two sheets (Region and Order).
+The dataset comprises 17,088 customer transactions from 2019 to 2021, structured across two sheets (Region and Order).
 
 **Dataset Structure**
 | Orders                  | Region        |
@@ -71,6 +71,12 @@ Summarizes the data quality issues identified across the dataset:
 <h3 align="left">Exploratory Data Analysis: Identifying Key Patterns by Objective</h3>
 
 1️⃣ **Analyze revenue trends and growth patterns**
+
+<p align="center">
+  <img src="https://cdn.phototourl.com/member/2026-09-26-0488de9e-4111-4179-a734-af08705cc96c.png" width="400"/>
+  <br>
+  <em> Revenue Trends by Years</em>
+</p>
 
 **Insight**
 
