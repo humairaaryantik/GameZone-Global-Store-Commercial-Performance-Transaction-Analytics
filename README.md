@@ -32,9 +32,11 @@ With a diverse product portfolio and customers across multiple markets, GameZone
 
 
 <h3 align="left">Dataset Details &amp; Structure</h3>
+
 The dataset comprises 17,088 customer transactions from 2019 to 2021, structured across two sheets (Region and Order).
 
 **Dataset Structure**
+
 | Orders                  | Region        |
 |-------------------------|---------------|
 | user_id                 | country_code  |
@@ -51,6 +53,7 @@ The dataset comprises 17,088 customer transactions from 2019 to 2021, structured
 | country_code            |               |
 
 <h3 align="left">Data Cleaning</h3>
+
 Summarizes the data quality issues identified across the dataset:
 
 | No. | Sheet  | Column                  | Data Quality Issue                          | Resolved? | Resolution |
@@ -96,6 +99,7 @@ As restrictions gradually eased in 2021, consumers began returning to offline ac
 **Insight**
 
 Top 4 Products by Revenue and Units Sold
+
 | Product                         | Total Revenue | Units Sold | Product Category |
 |---------------------------------|---------------|------------|------------------|
 | 27in 4K Gaming Monitor          | $1.95M        | 4,688      | Gaming Monitor   |
@@ -154,6 +158,7 @@ JBL Quantum 100 achieved the highest sales volume, supported by its more afforda
 4️⃣ **Identify key regions and assess revenue concentration**
 
 Revenue by Top 10 Countries
+
 | Country Code | Country Name | Revenue |
 |--------------|--------------|--------|
 | US | United States | $2,947,679 |
