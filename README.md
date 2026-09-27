@@ -157,7 +157,7 @@ JBL Quantum 100 achieved the highest sales volume, supported by its more afforda
 
 Revenue by Top 10 Countries
 | Country Code | Country Name | Revenue |
-|--------------|--------------|--------:|
+|--------------|--------------|--------|
 | US | United States | $2,947,679 |
 | GB | United Kingdom | $474,498 |
 | DE | Germany | $255,110 |
@@ -169,4 +169,36 @@ Revenue by Top 10 Countries
 | ES | Spain | $105,733 |
 | NL | Netherlands | $97,505 |
 
-**The United States generated the highest revenue for GameZone at approximately $2.95M**. **This may be supported by the country’s large gaming ecosystem**; ESA reported that the U.S. gaming industry spans developers, publishers, hardware, and retail, while U.S. consumer spending on video games reached $60.4B in 2021.
+**The United States generated the highest revenue for GameZone at approximately $2.95M**. **This may be supported by the country’s large gaming ecosystem**; Entertainment Software Association (ESA) reported that the U.S. gaming industry spans developers, publishers, hardware, and retail, while U.S. consumer spending on video games reached $60.4B in 2021.
+
+5️⃣ **Evaluate refund by product**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.phototourl.com/member/2026-09-27-61803ec0-3b05-4536-8fb7-64d7f449883c.jpg" width="450"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.phototourl.com/member/2026-09-27-2ca95e03-55a3-4973-9222-6f9f8e3f2657.jpg" width="450"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><em>Refund vs Non-Refund Transaction</em></td>
+    <td align="center"><em>Refund by Product</em></td>
+  </tr>
+</table>
+
+
+| Product                        | Units Sold | Refunds | Refund Rate |
+|--------------------------------|-----------:|--------:|------------:|
+| Nintendo Switch                | <mark style="background-color:#ffcccc;">10,386</mark> | <mark style="background-color:#ffcccc;">2,012</mark> | <mark style="background-color:#ffcccc;">19.4%</mark> |
+| 27in 4K Gaming Monitor         | <mark style="background-color:#ffcccc;">4,688</mark>  | <mark style="background-color:#ffcccc;">974</mark>   | <mark style="background-color:#ffcccc;">20.8%</mark> |
+| Sony PlayStation 5 Bundle      | 977        | 176     | 18.0%       |
+| Lenovo IdeaPad Gaming 3        | 669        | 128     | 19.1%       |
+| JBL Quantum 100 Gaming Headset | <mark style="background-color:#d9ead3;">4,296</mark> | <mark style="background-color:#d9ead3;">131</mark> | <mark style="background-color:#d9ead3;">3.0%</mark> |
+| Dell Gaming Mouse              | 719        | 53      | 7.4%        |
+| Acer Nitro V Gaming Laptop     | 87         | 9       | 10.3%       |
+
+**Insight**
+
+Nintendo Switch and the 27in 4K Gaming Monitor recorded the highest refund volumes, consistent with their high sales volumes. However, their refund rates were also relatively high at 19.4% and 20.8%, respectively. In contrast, the JBL Quantum 100 Gaming Headset achieved a similar sales volume with only a 3.0% refund rate, **suggesting that refund exposure may be influenced by product-specific factors such as customer expectations, specifications, compatibility, and delivery conditions beyond sales volume.** These factors should be investigated further through an analysis of customer complaints.
