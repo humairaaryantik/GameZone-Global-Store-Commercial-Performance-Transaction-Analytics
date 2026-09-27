@@ -1,15 +1,13 @@
 <h2 align="center"><strong>GameZone Global Store - Commercial Performance &amp; Transaction Analytics</strong></h2>
 <h3 align="left">Table of Content</h3>
 
-1. [Business Background](#Business-Background)
-2. [Analytical Objective](#analytical-objective)
-3. [Dataset Details & Structures](#dataset-details-&-structure)
+1. [Business Background](#business-background)
+2. [Analytical Objectives](#analytical-objectives)
+3. [Dataset Details & Structure](#dataset-details--structure)
 4. [Data Cleaning](#data-cleaning)
-6. [Dashboard Tableau](#dashboard)
-7. [Insight Key & Decision Making](#insight-key-decision-making)
-8. [Potensi Strategi Bundling Produk](#potensi-strategi-bundling-produk)
-9. [Kesimpulan Startegis](#kesimpulan-strategis)
-10. [Struktur Folder & File](#struktur-folder--file)
+5. [Exploratory Data Analysis (EDA) Identifying Key Patterns by Objective](#exploratory-data-analysis-eda-identifying-key-patterns-by-objective)
+6. [Business Overview Dashboard](#business-overview-dashboard)
+7. [Business Recommendations](#business-recommendations)
 
 <h3 align="left">Business Background</h3>
 
@@ -68,7 +66,7 @@ Summarizes the data quality issues identified across the dataset:
 | 9   | region | region                  | Inconsistent country codes and NULL values  | Yes       | Standardized country codes and filled NULL values with the correct data |
 
 
-<h3 align="left">Exploratory Data Analysis: Identifying Key Patterns by Objective</h3>
+<h3 align="left">Exploratory Data Analysis (EDA) Identifying Key Patterns by Objective</h3>
 
 1️⃣ **Analyze revenue trends and growth patterns**
 
@@ -202,3 +200,28 @@ Revenue by Top 10 Countries
 **Insight**
 
 Nintendo Switch and the 27in 4K Gaming Monitor recorded the highest refund volumes, consistent with their high sales volumes. However, their refund rates were also relatively high at 19.4% and 20.8%, respectively. In contrast, the JBL Quantum 100 Gaming Headset achieved a similar sales volume with only a 3.0% refund rate, **suggesting that refund exposure may be influenced by product-specific factors such as customer expectations, specifications, compatibility, and delivery conditions beyond sales volume.** These factors should be investigated further through an analysis of customer complaints.
+
+<h3 align="left">Business Overview Dashboard</h3>
+
+<p align="center">
+  <img src="https://cdn.phototourl.com/member/2026-09-27-92394fff-ed27-4156-a788-25fec26c432d.png" width="800"/>
+  <br>
+  <em> Tableau Dashboard</em>
+</p>
+
+The **Business Overview Dashboard** provides a consolidated view of GameZone's business performance across key metrics, including **revenue, transaction volume, product performance, marketing channels, market distribution, and refund patterns**.
+
+The dashboard is designed to support **performance monitoring, pattern identification, and data-driven business analysis**, allowing users to explore key business metrics and identify areas that may require further investigation.
+
+**🔗 Access the interactive dashboard:**  
+[View Business Overview Dashboard on Tableau Public](https://public.tableau.com/shared/BGJ5B8SSG?:display_count=n&:origin=viz_share_link)
+
+<h3 align="left">Business Recommendations</h3>
+
+| Analytical Objective | Recommendation |
+|----------------------|----------------|
+| **Analyze revenue trends and growth patterns** | **Prioritize declining products and markets for targeted promotions and product bundling**, supported by seasonal gaming campaigns, to recover sales volume and establish periodic revenue targets for performance tracking.. |
+| **Identify key products driving revenue** | Leverage high-demand products from the **Gaming Monitor, Game Console, and Gaming Accessories categories for product bundling**, offering attractive bundle pricing to drive overall sales and increase demand for slower-moving products. |
+| **Evaluate marketing channel performance** | **Leverage Social Media channel (TikTok, Instagram, YouTube, and Facebook) to launch gaming-focused content campaigns** that build brand awareness while incorporating direct product links, limited-time promotions, and product-focused CTAs to convert social media audiences into website traffic and purchase. |
+| **Identify key regions and revenue concentration** | **Adapt global gaming community-based campaigns from the US market to non-US markets** (gaming events, community campaigns, and promotional activities) with localized content and offers to increase customer acquisition and revenue contribution. |
+| **Evaluate refund pattern by product** | **Analyze customer complaints** for Nintendo Switch and the 27in 4K Gaming Monitor to identify refund drivers and implement corrective actions, such as improving quality control, product specifications, or delivery processes.. |
