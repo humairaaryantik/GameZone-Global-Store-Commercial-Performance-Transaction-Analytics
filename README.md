@@ -80,4 +80,64 @@ Summarizes the data quality issues identified across the dataset:
 
 **Insight**
 
-GameZone’s revenue showed strong growth through 2020, peaking at approximately $3.12M, followed by a sharp decline to around $0.4M in 2021.
+<mark>GameZone’s revenue showed strong growth through 2020, peaking at approximately $4.05M, followed by a sharp decline to around $0.54M in 2021.</mark>
+
+From 2019 to 2020, the COVID-19 pandemic led to lockdowns, school closures, and social distancing, limiting offline activities and increasing time spent at home. Gaming became one of the most accessible forms of home-based entertainment. **The significant revenue growth in 2020 may have been influenced by the pandemic, as increased time at home accelerated gaming engagement and digital purchases.** The World Economic Forum also reported that **Asia-Pacific was the largest gaming market by revenue, accounting for almost 50% of the global games market by value in 2020**, highlighting the strong global demand for gaming during the pandemic.
+
+As restrictions gradually eased in 2021, consumers began returning to offline activities, potentially reducing the exceptional level of gaming demand observed in 2020.
+
+
+2️⃣ **Identify key product to support revenue drivers**
+
+<p align="center">
+  <img src="https://cdn.phototourl.com/member/2026-09-27-6dbac813-ff05-46aa-ae2f-ab9d3ce55eeb.jpg" width="900"/>
+  <br>
+  <em> Product Revenue and Units Sold</em>
+</p>
+
+**Insight**
+
+Top 4 Products by Revenue and Units Sold
+| Product                         | Total Revenue | Units Sold | Product Category |
+|---------------------------------|---------------|------------|------------------|
+| 27in 4K Gaming Monitor          | $1.95M        | 4,688      | Gaming Monitor   |
+| Nintendo Switch                 | $1.66M        | 10,386     | Game Console     |
+| JBL Quantum 100 Gaming Headset  | $0.73M        | 4,296      | Gaming Accessories |
+| Sony PlayStation 5              | $1.95M        | 977        | Game Console     |
+
+<mark>Gaming hardware, particularly consoles and monitors, contributed the largest share of revenue among the top-performing products.</mark>
+
+**Breakdown of Product Performance by Category**
+
+- Gaming Monitor
+
+| Product                    | Total Revenue | Units Sold | Average Price per Unit      |
+|----------------------------|---------------|------------|-----------------------------|
+| 27in 4K Gaming Monitor     | $1.95M        | 4,688      | $480                        |
+| Acer Nitro V Laptop        | $0.07M        | 87         | $798                        |
+| Lenovo IdeaPad 3           | $0.74M        | 669        | $1,198                      |
+
+**Product performance is influenced by a combination of price, sales volume, and product value**. The 27in 4K Gaming Monitor achieved the highest revenue through its relatively affordable price and significantly higher sales volume, while the Lenovo IdeaPad Gaming 3 generated substantial revenue despite lower volume due to its higher price point. Interestingly, Lenovo sold significantly more units than the more affordable Acer Nitro V, suggesting that purchase decisions may depend not only on price, but also on factors such as product specifications, perceived value, and brand preference.
+
+
+- Gaming Console
+
+| Product                   | Total Revenue | Units Sold | Average Price per Unit |
+|---------------------------|---------------|------------|-------------------------|
+| Nintendo Switch           | $1.66M        | 10,386     | $168                    |
+| Sony PlayStation 5 Bundle | $1.59M        | 977        | $1,726                  |
+
+**Nintendo Switch generated nearly the same revenue as the Sony PlayStation 5 despite selling more than 10× the number of units**. This suggests that the Switch’s performance was primarily driven by high sales volume and a more affordable price point, while the significantly higher price of the PS5 may have limited its sales volume.
+
+- Gaming Accecoris
+
+
+| Product                         | Total Revenue | Units Sold | Average Price per Unit |
+|---------------------------------|---------------|------------|-------------------------|
+| JBL Quantum 100 Gaming Headset  | $0.10M        | 4,296      | $24                     |
+| Dell Gaming Mouse               | $0.04M        | 719        | $50                     |
+| Razer Pro Gaming Headset        | $884       | 7          | $120                       |
+
+JBL Quantum 100 achieved the highest sales volume, supported by its more affordable price point. In contrast, the Razer Pro Gaming Headset had the highest price but the lowest sales volume, **suggesting that price may be one of the factors influencing purchase volume**.
+
+3️⃣ **Evaluate marketing channel effectiveness**
