@@ -141,3 +141,32 @@ Top 4 Products by Revenue and Units Sold
 JBL Quantum 100 achieved the highest sales volume, supported by its more affordable price point. In contrast, the Razer Pro Gaming Headset had the highest price but the lowest sales volume, **suggesting that price may be one of the factors influencing purchase volume**.
 
 3️⃣ **Evaluate marketing channel effectiveness**
+
+<p align="center">
+  <img src="https://cdn.phototourl.com/member/2026-09-27-ad5ad0a5-8bf0-47b6-9576-052b5ae2726c.jpg" width="500"/>
+  <br>
+  <em> Total Transactions by Marketing Channel</em>
+</p>
+
+**Insight**
+
+**Direct dominated GameZone’s transactions, accounting for approximately 80% of total transactions**. Direct traffic generally represents customers accessing the store without a tracked referral source, such as typing the website URL directly, using bookmarks, or accessing the brand directly. **This high share may indicate strong customer familiarity or purchase intent with brand.**
+
+
+4️⃣ **Identify key regions and assess revenue concentration**
+
+Revenue by Top 10 Countries
+| Country Code | Country Name | Revenue |
+|--------------|--------------|--------:|
+| US | United States | $2,947,679 |
+| GB | United Kingdom | $474,498 |
+| DE | Germany | $255,110 |
+| CA | Canada | $232,100 |
+| JP | Japan | $219,879 |
+| AU | Australia | $187,830 |
+| FR | France | $152,501 |
+| BR | Brazil | $145,881 |
+| ES | Spain | $105,733 |
+| NL | Netherlands | $97,505 |
+
+**The United States generated the highest revenue for GameZone at approximately $2.95M**. **This may be supported by the country’s large gaming ecosystem**; ESA reported that the U.S. gaming industry spans developers, publishers, hardware, and retail, while U.S. consumer spending on video games reached $60.4B in 2021.
